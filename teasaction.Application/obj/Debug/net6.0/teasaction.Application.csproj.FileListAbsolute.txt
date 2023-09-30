@@ -1,0 +1,15 @@
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\bin\Debug\net6.0\teasaction.Application.deps.json
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\bin\Debug\net6.0\teasaction.Application.dll
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\bin\Debug\net6.0\teasaction.Application.pdb
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\bin\Debug\net6.0\trasaction.Domain.dll
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\bin\Debug\net6.0\trasaction.Domain.pdb
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\obj\Debug\net6.0\teasaction.Application.csproj.AssemblyReference.cache
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\obj\Debug\net6.0\teasaction.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\obj\Debug\net6.0\teasaction.Application.AssemblyInfoInputs.cache
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\obj\Debug\net6.0\teasaction.Application.AssemblyInfo.cs
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\obj\Debug\net6.0\teasaction.Application.csproj.CoreCompileInputs.cache
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\obj\Debug\net6.0\teasaction.Application.csproj.CopyComplete
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\obj\Debug\net6.0\teasaction.Application.dll
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\obj\Debug\net6.0\refint\teasaction.Application.dll
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\obj\Debug\net6.0\teasaction.Application.pdb
+E:\D\StoreProject\EF-Test\Transaction\teasaction.Application\obj\Debug\net6.0\ref\teasaction.Application.dll

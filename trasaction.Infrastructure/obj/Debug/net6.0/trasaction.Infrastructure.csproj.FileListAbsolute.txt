@@ -1,0 +1,17 @@
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\obj\Debug\net6.0\trasaction.Infrastructure.csproj.AssemblyReference.cache
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\obj\Debug\net6.0\trasaction.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\obj\Debug\net6.0\trasaction.Infrastructure.AssemblyInfoInputs.cache
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\obj\Debug\net6.0\trasaction.Infrastructure.AssemblyInfo.cs
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\obj\Debug\net6.0\trasaction.Infrastructure.csproj.CoreCompileInputs.cache
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\bin\Debug\net6.0\trasaction.Infrastructure.deps.json
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\bin\Debug\net6.0\trasaction.Infrastructure.dll
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\bin\Debug\net6.0\trasaction.Infrastructure.pdb
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\bin\Debug\net6.0\teasaction.Application.dll
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\bin\Debug\net6.0\trasaction.Domain.dll
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\bin\Debug\net6.0\teasaction.Application.pdb
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\bin\Debug\net6.0\trasaction.Domain.pdb
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\obj\Debug\net6.0\trasaction.Infrastructure.csproj.CopyComplete
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\obj\Debug\net6.0\trasaction.Infrastructure.dll
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\obj\Debug\net6.0\refint\trasaction.Infrastructure.dll
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\obj\Debug\net6.0\trasaction.Infrastructure.pdb
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Infrastructure\obj\Debug\net6.0\ref\trasaction.Infrastructure.dll

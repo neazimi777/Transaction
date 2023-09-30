@@ -1,0 +1,12 @@
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Domain\bin\Debug\net6.0\trasaction.Domain.deps.json
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Domain\bin\Debug\net6.0\trasaction.Domain.dll
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Domain\bin\Debug\net6.0\trasaction.Domain.pdb
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Domain\obj\Debug\net6.0\trasaction.Domain.csproj.AssemblyReference.cache
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Domain\obj\Debug\net6.0\trasaction.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Domain\obj\Debug\net6.0\trasaction.Domain.AssemblyInfoInputs.cache
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Domain\obj\Debug\net6.0\trasaction.Domain.AssemblyInfo.cs
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Domain\obj\Debug\net6.0\trasaction.Domain.csproj.CoreCompileInputs.cache
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Domain\obj\Debug\net6.0\trasaction.Domain.dll
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Domain\obj\Debug\net6.0\refint\trasaction.Domain.dll
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Domain\obj\Debug\net6.0\trasaction.Domain.pdb
+E:\D\StoreProject\EF-Test\Transaction\trasaction.Domain\obj\Debug\net6.0\ref\trasaction.Domain.dll
