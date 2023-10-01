@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0b76hCin4AXmnWO1JX0PqJfjl/pZ386D9eQDhUp4Wnd/SOehnvMIUcuslVuZmAu/WudNXEwO4J6gm7ibpjQU9w==",
+  "dgSpecHash": "IF+AyMoE8dntbKAdqQ3vNAU1c9g5ArZ/rqDTgOInziqC9XG+G9bkMBxFUFn3VhZ8pZwH1axo3nG030URsOLklg==",
   "success": true,
-  "projectFilePath": "E:\\D\\StoreProject\\EF-Test\\Transaction\\trasaction.Infrastructure\\trasaction.Infrastructure.csproj",
+  "projectFilePath": "E:\\D\\StoreProject\\Transaction\\trasaction.Infrastructure\\trasaction.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Negar\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Negar\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
